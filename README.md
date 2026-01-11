@@ -42,7 +42,7 @@ The resulting QBER values are displayed in a bar chart for comparison.
 - Qiskit Aer Simulator
 - Matplotlib
 
-# How It Works (High Level)
+# How It Works
 
 1. Alice generates random bits and random bases and encodes them into qubits.
 2. (Optional) Eve intercepts and measures qubits using random bases, introducing disturbance.
