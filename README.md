@@ -1,2 +1,2 @@
 # BB84
-BB84 Simulator
+This programme contains a BB84 Simulator written with Python and Qiskit.
